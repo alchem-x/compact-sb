@@ -119,7 +119,6 @@ void main() {
 
 - [本项目GitHub仓库](https://github.com/alchem-x/compact-sb) - 源代码和示例
 - [JEP 512官方文档](https://openjdk.org/jeps/512) - 技术规范
-- [JEP 512中文翻译](jep-512.md) - 双语版本
 - [OpenJDK 25下载](https://jdk.java.net/25/) - 获取Java 25
 
 ---
