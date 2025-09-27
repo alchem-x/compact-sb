@@ -1,5 +1,7 @@
 # Compact Java App - 像写Python一样写Java
 
+**项目地址**: [https://github.com/alchem-x/compact-sb](https://github.com/alchem-x/compact-sb)
+
 ## 什么是Compact Java App？
 
 Compact Java App是基于Java 25新特性（JEP 512）的编程方式，让你可以像写Python一样写Java程序：
@@ -115,8 +117,9 @@ void main() {
 
 ### 相关资源
 
+- [本项目GitHub仓库](https://github.com/alchem-x/compact-sb) - 源代码和示例
 - [JEP 512官方文档](https://openjdk.org/jeps/512) - 技术规范
-- [JEP 512中文翻译](jep-512-bilingual.md) - 双语版本
+- [JEP 512中文翻译](jep-512.md) - 双语版本
 - [OpenJDK 25下载](https://jdk.java.net/25/) - 获取Java 25
 
 ---
