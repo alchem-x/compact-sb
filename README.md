@@ -5,8 +5,7 @@
 - Java 25 required
 
 ```sh
-java Lu.java
-java -cp "lib/*" CompactSB.java 
+java Lu.java && java -cp "lib/*" CompactSB.java 
 ```
 
 See http://localhost:8080/
